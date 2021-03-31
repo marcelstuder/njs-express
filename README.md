@@ -8,6 +8,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - install required dependencies: `npm i typescript @types/node @types/react --save-dev`
 - run the app: `npm run dev`
 
+### Auth
+
+- install jwt package: `npm install jsonwebtoken --save`
+- install jwt types: `npm install @types/jsonwebtoken --save-dev`
+
 ## Getting Started
 
 First, run the development server:
