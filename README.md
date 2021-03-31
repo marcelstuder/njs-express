@@ -13,6 +13,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - install jwt package: `npm install jsonwebtoken --save`
 - install jwt types: `npm install @types/jsonwebtoken --save-dev`
 
+### Continue here:
+
+https://youtu.be/tt3PUvhOVzo?t=4904
+
 ## Getting Started
 
 First, run the development server:
