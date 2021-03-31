@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Personal notes
+
+- Project created using: `npx create-next-app njs-express --use-npm`
+- rename .js files to .tsx (pages) and .ts (api) (tsx for jsx usage)
+- create an empty `tsconfig.json` file
+- install required dependencies: `npm i typescript @types/node @types/react --save-dev`
+- run the app: `npm run dev`
+
 ## Getting Started
 
 First, run the development server:
